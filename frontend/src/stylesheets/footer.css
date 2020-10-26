@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Piazzolla:ital,wght@1,100&display=swap");
+
+.footer {
+  background-color: rgb(41, 39, 39);
+  padding: 100px 50px;
+  font-family: "Piazzolla", serif;
+  margin-top: 50px;
+}
+
+.footer-links {
+  text-decoration: none;
+  color: white;
+  font-family: "Piazzolla", serif;
+}
+.footer-links:hover {
+  text-decoration: none;
+  color: rgb(160, 150, 150);
+}
+
+.copyright {
+  height: 30px;
+  background-color: rgb(31, 29, 29);
+  font-family: sans-serif;
+  padding-top: 5px;
+}
+@media only screen and (max-width: 767px) {
+  .contact-container {
+    margin-bottom: 40px;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .social-container {
+    margin-bottom: 40px;
+  }
+}

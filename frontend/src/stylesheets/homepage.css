@@ -1,0 +1,27 @@
+.chart {
+  width: 50vw;
+  height: 70vh;
+  display: flex;
+  align-self: flex-start;
+  cursor: pointer;
+  margin-left: 60px;
+}
+.heading {
+  display: flex;
+  padding: 30px;
+}
+.hero {
+  margin-bottom: 160px;
+}
+
+@media only screen and (max-width: 900px) {
+  .hero {
+    flex-direction: column;
+  }
+  .chart {
+    margin: 0 auto;
+  }
+  .heading {
+    justify-content: center;
+  }
+}

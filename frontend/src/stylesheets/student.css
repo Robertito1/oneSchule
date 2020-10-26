@@ -1,0 +1,6 @@
+.student {
+  cursor: pointer;
+}
+.student:hover {
+  color: blue;
+}
