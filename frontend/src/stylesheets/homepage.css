@@ -8,10 +8,14 @@
 }
 .heading {
   display: flex;
-  padding: 30px;
+  padding: 50px;
 }
 .hero {
   margin-bottom: 160px;
+}
+
+.loading {
+  padding: 50px;
 }
 
 @media only screen and (max-width: 900px) {

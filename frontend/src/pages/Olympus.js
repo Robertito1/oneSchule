@@ -1,6 +1,8 @@
 import React from 'react'
 import '../stylesheets/statesPage.css'
 import { withRouter } from 'react-router-dom';
+import Hero from '../components/hero'
+import olympusImage from '../assets/olympus.jpg'
 
 
 const Olympus = ({history,match, schools}) => {
@@ -11,6 +13,7 @@ const Olympus = ({history,match, schools}) => {
 
       
     return (  <div>
+    <Hero image={olympusImage}/>
     <h1 className='d-flex align-self-start heading'>Schools in Olympus</h1>
             <table>
     <thead>

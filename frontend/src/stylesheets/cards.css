@@ -1,0 +1,23 @@
+.card {
+  height: 200px;
+  width: 300px;
+  align-self: center;
+  margin: 20px auto;
+}
+
+.card-deck {
+  margin: 150px auto;
+  justify-content: center;
+  width: 92vw;
+}
+.card-icons {
+  display: flex;
+  margin: 0 auto;
+  height: 100px;
+  /* justify-content: center; */
+}
+
+.card-title {
+  font-family: sans-serif;
+  font-weight: bold;
+}

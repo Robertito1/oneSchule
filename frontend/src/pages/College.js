@@ -56,9 +56,9 @@ const university =  await schools.find(e => e.id === match.params.college)
       )
     }
   }
-  const mapTh = (e) => {
-   e.map(e => <li key={e}>{e}</li>) 
-  }
+  // const mapTh = (e) => {
+  //  e.map(e => <li key={e}>{e}</li>) 
+  // }
   return(
     <React.Fragment>
       <div className='collegePage'>

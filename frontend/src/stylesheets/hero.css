@@ -1,0 +1,35 @@
+.heroImage {
+  position: relative;
+  background-size: cover;
+  height: 90vh;
+  width: 98vw;
+  padding: 0 50px;
+}
+
+.hero {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+}
+@media only screen and (max-width: 1000px) {
+  .heroImage {
+    height: 70vh;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .heroImage {
+    padding: 0 25px;
+  }
+}
+
+@media only screen and (max-width: 610px) {
+  .heroImage {
+    height: 50vh;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .heroImage {
+    padding: 0 10px;
+  }
+}

@@ -10,7 +10,7 @@ const Header = () => {
         id="navbar-section"
       >
         <Link className="toHome navbar-brand" to="/">
-          <p className="my-auto logo animate__animated animate__backInUp text-danger logo">
+          <p className="my-auto logo animate__animated animate__backInUp text-danger logo p-2">
             OneSchule
           </p>
         </Link>
@@ -27,6 +27,26 @@ const Header = () => {
             <li className="nav-item ">
               <Link className="toHome nav-link text-dark" to="/">
                 Home
+              </Link>
+            </li>
+            <li className="nav-item ">
+              <Link className="toHome nav-link text-dark" to="/atlantis">
+                Atlantis
+              </Link>
+            </li>
+            <li className="nav-item ">
+              <Link className="toHome nav-link text-dark" to="/karma-tag">
+                Karma-Taj
+              </Link>
+            </li>
+            <li className="nav-item ">
+              <Link className="toHome nav-link text-dark" to="/olympus">
+                Olympus
+              </Link>
+            </li>
+            <li className="nav-item ">
+              <Link className="toHome nav-link text-dark" to="/rajnagar">
+                Rajnagar
               </Link>
             </li>
           </ul>

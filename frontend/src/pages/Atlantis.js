@@ -1,5 +1,7 @@
 import React from 'react'
 import {withRouter} from 'react-router-dom'
+import atlantisImage from '../assets/atlantis.jpg'
+import Hero from '../components/hero.js'
 import '../stylesheets/statesPage.css'
 
 const Atlantis = ({history,match, schools}) => {
@@ -11,6 +13,7 @@ const Atlantis = ({history,match, schools}) => {
 
 
     return (  <div>
+     <Hero image={atlantisImage}/>
     <h1 className='d-flex align-self-start heading'>Schools in Atlantis</h1>
     <table>
     <thead>

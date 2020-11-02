@@ -1,7 +1,12 @@
 import React from "react";
+import Hero from '../components/hero'
+import Introduction from '../components/introduction'
 import { PieChart } from 'react-minimal-pie-chart';
 import {withRouter} from 'react-router-dom'
 import Legend from "../components/Legend";
+import Cards from "../components/cards";
+import Carousel from '../components/carousel'
+import heroImage from '../assets/pexels-pixabay-267885.jpg'
 
 import '../stylesheets/homepage.css'
 
@@ -27,7 +32,7 @@ const karmaTagSchools= schools.filter(e => e.state === 'Karma-Tag')
    if(schools.length === 0){
      return(
        <div>
-         <h1 className='m-4'>Loading...</h1>
+         <h1 className='loading'>Loading...</h1>
        </div>
      )
    }else{
@@ -46,6 +51,10 @@ const karmaTagSchools= schools.filter(e => e.state === 'Karma-Tag')
   }
   return (
     <div>
+    <Hero image={heroImage}/>
+    <Introduction />
+    <Cards />
+    <Carousel /> 
       <h1 className='heading'>Schools chart By State</h1> 
           {renderSchools()}
     </div>

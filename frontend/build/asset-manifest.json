@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.1231c04b.chunk.css",
-    "main.js": "/static/js/main.4bfba357.chunk.js",
-    "main.js.map": "/static/js/main.4bfba357.chunk.js.map",
+    "main.css": "/static/css/main.d9a68209.chunk.css",
+    "main.js": "/static/js/main.5e2af330.chunk.js",
+    "main.js.map": "/static/js/main.5e2af330.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
     "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
-    "static/js/2.8d580639.chunk.js": "/static/js/2.8d580639.chunk.js",
-    "static/js/2.8d580639.chunk.js.map": "/static/js/2.8d580639.chunk.js.map",
+    "static/js/2.7e03e36d.chunk.js": "/static/js/2.7e03e36d.chunk.js",
+    "static/js/2.7e03e36d.chunk.js.map": "/static/js/2.7e03e36d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.840d279c76a04fed0c7671671724c124.js": "/precache-manifest.840d279c76a04fed0c7671671724c124.js",
+    "precache-manifest.091910a7407d2d94a55d2ae966bf560e.js": "/precache-manifest.091910a7407d2d94a55d2ae966bf560e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.1231c04b.chunk.css.map": "/static/css/main.1231c04b.chunk.css.map",
-    "static/js/2.8d580639.chunk.js.LICENSE.txt": "/static/js/2.8d580639.chunk.js.LICENSE.txt"
+    "static/css/main.d9a68209.chunk.css.map": "/static/css/main.d9a68209.chunk.css.map",
+    "static/js/2.7e03e36d.chunk.js.LICENSE.txt": "/static/js/2.7e03e36d.chunk.js.LICENSE.txt",
+    "static/media/Kamar-Taj.png": "/static/media/Kamar-Taj.6b10c6a3.png",
+    "static/media/Rajnagar.jpg": "/static/media/Rajnagar.2f85a8f9.jpg",
+    "static/media/atlantis.jpg": "/static/media/atlantis.dc08703a.jpg",
+    "static/media/icons8-search-512.png": "/static/media/icons8-search-512.05862281.png",
+    "static/media/olympus.jpg": "/static/media/olympus.1d13bf17.jpg",
+    "static/media/pexels-anastasiya-gepp-1462630.jpg": "/static/media/pexels-anastasiya-gepp-1462630.d77b6a7c.jpg",
+    "static/media/pexels-pixabay-267885.jpg": "/static/media/pexels-pixabay-267885.d44a30d6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c8a21426.js",
-    "static/js/2.8d580639.chunk.js",
-    "static/css/main.1231c04b.chunk.css",
-    "static/js/main.4bfba357.chunk.js"
+    "static/js/2.7e03e36d.chunk.js",
+    "static/css/main.d9a68209.chunk.css",
+    "static/js/main.5e2af330.chunk.js"
   ]
 }

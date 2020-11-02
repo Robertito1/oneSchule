@@ -1,6 +1,8 @@
 import React from 'react'
 import '../stylesheets/statesPage.css'
 import { withRouter } from 'react-router-dom';
+import Hero from '../components/hero'
+import rajnagarImage from '../assets/Rajnagar.jpg'
 
 const Rajnagar = ({history,match, schools}) => {
 
@@ -10,6 +12,7 @@ const Rajnagar = ({history,match, schools}) => {
       }
 
     return (  <div>
+    <Hero image={rajnagarImage}/>
     <h1 className='d-flex align-self-start heading'>Schools in Rajnagar</h1>
         <table>
    <thead>

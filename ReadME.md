@@ -1,4 +1,4 @@
-Live Link https://one-schule.herokuapp.com
+Live Link https://school-informations.herokuapp.com
 
 <!-- SOME INFORMATION ABOUT THE APP -->
 

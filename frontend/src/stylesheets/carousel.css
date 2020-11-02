@@ -1,0 +1,20 @@
+.carousel {
+  padding: 50px;
+}
+
+.slide-img {
+  height: 500px;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 767px) {
+  .carousel {
+    padding: 0 25px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .carousel {
+    padding: 0 10px;
+  }
+}
