@@ -3,7 +3,7 @@ Name: [One Schule](https://school-informations.herokuapp.com)
 Hosted on: Heroku  
 live link: https://school-informations.herokuapp.com
 
-Records Information on:
+Records and Information Contain:
 
 - All Schools in all _imaginary_ States
 - A Chart to show distribution of Schools across all States
