@@ -1,7 +1,11 @@
-Live Link https://school-informations.herokuapp.com
+A simple App that can be used as a guide to get information on all Universities in an imaginary Country **Wakanda** return
+Records Information on:
 
-<!-- SOME INFORMATION ABOUT THE APP -->
+- All Schools in all _imaginary_ States
+- A Chart to show distribution of Schools across all States
+- A courses Offered in a University
+- All Students in a University
+- All Skills a Student possess and year of graduation
+- Schools that can be found in the same city as the current one the user is viewing
 
-Due to the large number of documents in the database, the app might take a little while to load data.
-This app was just for assessment and could have been a lot better if time permitted.
-I didnt use a free template from thememonster, i coded the frontend from scratch.
+###TECH STACK -**React.js**: UI presentation and display of information -**BootStrap**: For styling and improved view -**Node.js/Express**: Resources and the backend was built on express -**MongoDB/Mongoose**: Storing Data and mongoose for querying the database
