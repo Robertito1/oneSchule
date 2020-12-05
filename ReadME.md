@@ -1,5 +1,8 @@
 A simple App that can be used as a guide to get information on all Universities in an imaginary Country **Wakanda**
-Name: [One Schule](https://school-informations.herokuapp.com)
+Name: [One Schule](https://school-informations.herokuapp.com)  
+Hosted on: Heroku  
+live link: https://school-informations.herokuapp.com
+
 Records Information on:
 
 - All Schools in all _imaginary_ States
