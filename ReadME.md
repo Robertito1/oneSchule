@@ -1,4 +1,4 @@
-A simple App that can be used as a guide to get information on all Universities in an imaginary Country **Wakanda**
+A simple App that can be used as a guide to get information on all Universities in an imaginary Country
 Name: [One Schule](https://school-informations.herokuapp.com)  
 Hosted on: Heroku  
 live link: https://school-informations.herokuapp.com
